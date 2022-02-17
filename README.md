@@ -7,7 +7,6 @@
 ### Мой стек
 • VS Code • HTML • CCS • JavaScript • Webpack • Api • Git.
 
-<!---
-MarinaMoskaleva/MarinaMoskaleva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Мои контакты
+- E-mail: moskaleva.m.a@yandex.ru
+- Telegram: https://t.me/MarinaMoskaleva
