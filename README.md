@@ -5,7 +5,7 @@
 - 💞️ Считаю, что имеющиеся навыки всегда можно развить и усовершенствовать
 
 ### Мой стек
-• VS Code • HTML • CCS • JavaScript • Webpack • React • Vue • Api • Git.
+• HTML • CCS • JavaScript • Node.js • Express • MongoDB • React • Vue.
 
 ### Мои контакты
 - E-mail: moskaleva.m.a@yandex.ru
